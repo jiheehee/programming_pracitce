@@ -1,1 +1,1 @@
-# JAVA/coding-test-programmers
+# coding-test-programmers
