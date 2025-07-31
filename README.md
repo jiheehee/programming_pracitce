@@ -1,1 +1,1 @@
-# coding-test-programmers
+# programming practice
